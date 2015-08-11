@@ -1,0 +1,12 @@
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\classes\debug
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-6299fbf6511c53d534052baed359707c57190c65.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\codepath-utils-6cd1daa6060d0a1661f3be195b30d7a740139bf9.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\classes-a8319cda18e8c401df23a1b02e7579172d766385.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\codepath-oauth-0.4.1-df6d8222b63a77c51686f81cadce81344844a832.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-e0e1c9dd07e8bf08e41dc67802472f8924de4c5a.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\scribe-codepath-0.0.3-a0bb6594d52e3d2c592db26f8c2fc8b768d42840.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-bf028aa4bb980a08bdd55359963c0f1350c7de75.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-a43a72c01d10f5d95a78d786375c6a4b4e182f4a.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-cca17af9cc9f27e6fdf0f9aff56840a23f17c8a0.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\classes-67474f6fdc420edd52a4d061c7ae090f781e3a60.jar
+C:\Users\Tech Support\Desktop\MySimpleTweets-master\app\build\intermediates\pre-dexed\debug\classes-a3ea2ee97b6e0097e56d5b68a0b8c24f5caa5ba6.jar
